@@ -2,6 +2,9 @@
 function scuberGreetingforFeet(distance){
   if (distance <= 400) {
     
-  } else if ()
-  
+  } else if (distance > 200 && distance < 2500) {
+    
+  } else {
+    
+  }
 }
